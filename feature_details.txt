@@ -3,4 +3,8 @@ this is updated version of my file
 this is modified text 
 
 this feature will be related to my project
+HEAD
+feature-update
+
+this is modified txt
 feature-update
