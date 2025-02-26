@@ -1,2 +1,6 @@
+HEAD
 this is updated version of my file
 this is modified text 
+
+this feature will be related to my project
+feature-update
